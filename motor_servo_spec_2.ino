@@ -33,12 +33,12 @@ Servo myServo;
 int angle = 0;
 IoTMakers g_im;
 
-#define deviceID    "koreatD1566888016848"
-#define authnRqtNo  "laxa5s1nw"
-#define extrSysID   "OPEN_TCP_001PTL001_1000007605"
+#define deviceID    "safwanD1566950675171"
+#define authnRqtNo  "xfg2mso0z"
+#define extrSysID   "OPEN_TCP_001PTL001_1000007670"
 
-#define WIFI_SSID   "ICT-LAB-2.4G"
-#define WIFI_PASS   "12345678"
+#define WIFI_SSID   "koreatech303 5G"
+#define WIFI_PASS   "koreatech303"
 
 // ************************************************************************ //
 // Very Important!!!!
